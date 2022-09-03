@@ -1,0 +1,14 @@
+C:\Users\sergio Van Aardt\AppData\Local\Temporary Projects\Simple Calculator\bin\Debug\Simple Calculator.exe.config
+C:\Users\sergio Van Aardt\AppData\Local\Temporary Projects\Simple Calculator\bin\Debug\Simple Calculator.exe
+C:\Users\sergio Van Aardt\AppData\Local\Temporary Projects\Simple Calculator\bin\Debug\Simple Calculator.pdb
+C:\Users\sergio Van Aardt\AppData\Local\Temporary Projects\Simple Calculator\bin\Debug\Simple Calculator.xml
+C:\Users\sergio Van Aardt\AppData\Local\Temporary Projects\Simple Calculator\obj\Debug\Simple_Calculator.Calculator.resources
+C:\Users\sergio Van Aardt\AppData\Local\Temporary Projects\Simple Calculator\obj\Debug\Simple_Calculator.Resources.resources
+C:\Users\sergio Van Aardt\AppData\Local\Temporary Projects\Simple Calculator\obj\Debug\Simple Calculator.vbproj.GenerateResource.Cache
+C:\Users\sergio Van Aardt\AppData\Local\Temporary Projects\Simple Calculator\obj\Debug\Simple Calculator.exe
+C:\Users\sergio Van Aardt\AppData\Local\Temporary Projects\Simple Calculator\obj\Debug\Simple Calculator.xml
+C:\Users\sergio Van Aardt\AppData\Local\Temporary Projects\Simple Calculator\obj\Debug\Simple Calculator.pdb
+C:\Users\sergio Van Aardt\Documents\Visual Studio 2012\Projects\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.exe.config
+C:\Users\sergio Van Aardt\Documents\Visual Studio 2012\Projects\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.exe
+C:\Users\sergio Van Aardt\Documents\Visual Studio 2012\Projects\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.xml
+C:\Users\sergio Van Aardt\Documents\Visual Studio 2012\Projects\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.pdb
